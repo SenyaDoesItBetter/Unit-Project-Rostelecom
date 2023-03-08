@@ -6,7 +6,7 @@
 - анализ граничных значений
 
 Папка tests:/n
-test_negative_authpage -  негативные сценарии страницы авторизации/n
+test_negative_authpage -  негативные сценарии страницы авторизации\n
 test_negative_regpage -  негативные сценарии страницы регистрации /n
 test_negative_newpasspage - негативные сценарии страницы восстановления пароля/n
 test_positive_authpage -  позитивные сценарии страницы авторизации/n
